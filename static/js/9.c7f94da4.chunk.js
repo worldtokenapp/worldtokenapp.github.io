@@ -1,0 +1,2 @@
+(this["webpackJsonpsafu.investments-frontend"]=this["webpackJsonpsafu.investments-frontend"]||[]).push([[9,10,11,12],{353:function(n,t){},354:function(n,t){},355:function(n,t){},356:function(n,t){},359:function(n,t){},360:function(n,t){},361:function(n,t){},362:function(n,t){},364:function(n,t){}}]);
+//# sourceMappingURL=9.c7f94da4.chunk.js.map
